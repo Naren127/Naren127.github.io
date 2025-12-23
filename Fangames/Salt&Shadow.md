@@ -1,0 +1,5 @@
+# Pokemon Salt & Shadow: It's (Not) Like Dark Souls
+
+Salt & Shadow exists for me as a series of contradictions. On the one hand, its bold, unique premise and world design stand out as some of the best of its kind across the other fangames I've played. On the other, some of its design decisions are well...baffling to say the least. In browsing forums online, comparisons to Dark Souls are both numerous and spectacularly wrong. I will not make this comparison, nor mention Dark Souls, except in this sentence and the preceding one. Before I risk waffling on any more, here is the core premise of  Salt & Shadow: Thrown into a harsh and unforgiving world, you've got to challenge the Elite 4 and beat the Champion in twelve days or less. You can as you would in any other game, catch Pokemon, battle Trainers, and go through numerous routes. 
+
+The catch here is that your Pokemon _do not_ gain experience and thus can't be leveled up, barring the occasional __rare candy__.
