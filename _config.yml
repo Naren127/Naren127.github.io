@@ -5,3 +5,4 @@ plugins:
 title: [Gotta Hack Em All]
 tagline: [A blog where I review ROMHacks and Fangames]
 description: [Reviewing Pokemon ROMs and fangames until the heat death of the universe]
+include: [Fangames]
